@@ -6,7 +6,7 @@ The core logic is written in C++, while the display bitmaps are handled in C for
 
 ---
 
-## ✨ Features
+## Features
 
 - Clean and responsive menu system  
 - Sound toggle option using a passive buzzer  
@@ -16,7 +16,7 @@ The core logic is written in C++, while the display bitmaps are handled in C for
 
 ---
 
-## 🛠 Hardware
+## Hardware
 
 - ESP32 Dev Board  
 - E-Paper Display  
@@ -25,19 +25,18 @@ The core logic is written in C++, while the display bitmaps are handled in C for
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 This project was inspired by the video game *Astrea: Six-Sided Oracles*.  
 I really enjoyed the dice-based combat system and wanted to build a physical digital dice of my own.
 
-Working with the limitations of an e-paper display pushed me to think creatively and improve my understanding of embedded systems and structured C++ design.
+Working with the limitations of an e-paper display made me to think creatively and improve my understanding of embedded systems and structured C++ design.
 
 ---
 
-## 🚧 Current Status
+## Current Status
 
 The project is actively being improved.  
-Planned updates include UI refinements and additional features.
 
 ---
 
