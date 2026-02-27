@@ -6,6 +6,12 @@ The core logic is written in C++, while the display bitmaps are handled in C for
 
 ---
 
+## Preview
+
+![Render](img/3d-cube-image.png)
+
+---
+
 ## Features
 
 - Clean and responsive menu system  
@@ -19,7 +25,7 @@ The core logic is written in C++, while the display bitmaps are handled in C for
 ## Hardware
 
 - ESP32 Dev Board  
-- E-Paper Display  
+- 1.54" E-Paper Display  
 - Rotary Encoder  
 - Passive Buzzer  
 
@@ -30,13 +36,20 @@ The core logic is written in C++, while the display bitmaps are handled in C for
 This project was inspired by the video game *Astrea: Six-Sided Oracles*.  
 I really enjoyed the dice-based combat system and wanted to build a physical digital dice of my own.
 
-Working with the limitations of an e-paper display made me to think creatively and improve my understanding of embedded systems and structured C++ design.
+Working within the limitations of an e-paper display pushed me to think creatively and improve my understanding of embedded systems and structured C++ design.
+
+---
+
+## Enclosure Development
+
+I am currently designing a custom 3D-printed housing for the device.  
+The STL file for the enclosure is included in this repository.
 
 ---
 
 ## Current Status
 
-The project is actively being improved.  
+The project is actively being improved and refined.
 
 ---
 
