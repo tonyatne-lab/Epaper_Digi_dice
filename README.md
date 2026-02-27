@@ -8,7 +8,7 @@ The core logic is written in C++, while the display bitmaps are handled in C for
 
 ## Preview
 
-![Render](img/3d-cube-image.png)
+![Render](img/render.png)
 
 ---
 
